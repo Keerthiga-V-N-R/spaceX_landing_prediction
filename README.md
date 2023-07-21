@@ -1,4 +1,4 @@
-# SpaceX first stage landing prediction
+# SpaceX Falcon 9 first stage landing prediction
 ![Applied Data Science Capstone project](https://github.com/Keerthiga-V-N-R/spaceX_landing_prediction/assets/111515088/f323c74e-1695-43f0-9673-03564434186a)
 
 
